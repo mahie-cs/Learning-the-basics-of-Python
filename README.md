@@ -1,4 +1,4 @@
-# Path to Backend Engineering & AI/ML: From Foundations to Python
+# Taming the snake 🐍 
 
 Welcome to my repository! This space documents my journey as an incoming Computer Science student, tracking my progression from foundational systems programming to modern backend web development and artificial intelligence.
 
