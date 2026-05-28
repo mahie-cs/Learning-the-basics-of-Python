@@ -1,0 +1,15 @@
+print("--------MadLibs Story generator--------")
+print("Enter a few words to create a story")
+
+adj0 = input("Enter an adjective: ")
+noun0 = input("Enter a noun: ")
+adj1 = input("Enter an adjective: ")
+adj2 = input("Enter another adjective: ")
+noun1 = input("Enter a noun: ")
+
+print(f"Today I went to a {adj0} zoo.")
+print(f"Where I saw a {noun0}.")
+print(f"It looked {adj1} and was very {adj2}.")
+print(f"{noun0} was looking for some food.")
+print(f"I wanted to help.")
+print(f"But because of the {noun1}, I couldn't do anything.")
