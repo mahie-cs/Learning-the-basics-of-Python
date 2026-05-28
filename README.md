@@ -1,32 +1,18 @@
 # Taming the snake 🐍 
 
-Welcome to my repository! This space documents my journey as an incoming Computer Science student, tracking my progression from foundational systems programming to modern backend web development and artificial intelligence.
+Welcome to my repository! This space documents my journey as an incoming Computer Science student, tracking my progression from foundational systems programming to modern backend web development.
 
 ---
 
-## Academic Background & Foundations in C
-
-I am a Computer Science student currently preparing for the formal launch of my university curriculum at the end of June 2026. Ahead of my classes, I chose to build a strong engineering foundation by understanding the basics of **C**. 
-
-Exploring C was a deeply rewarding experience. I spent a significant amount of time experimenting with its syntax, building small projects, and playing around with its low-level capabilities. While C may not be the primary choice for modern, mainstream commercial applications, the time I spent mastering it was invaluable. It provided me with a rigorous mental model of software execution, specifically:
-* **Low-Level Memory Management:** Understanding pointers, allocations, and the stack versus the heap. (Thanks CS50x)
-* **Hardware Interaction:** Gaining insight into how software communicates directly with computer architecture.
-* **Problem-Solving Paradigm:** Permanently reshaping how I approach logic, efficiency, and structural design.
+I am transitioning from C to Python, because it's more realistic option for a beginner like me to bring my ideas into reality. Plus, who even uses C? You have to manually free the memory if you use malloc/memory allocation.
 
 ---
 
-## The Pivot to Python & Backend Development
+Running the scripts I have written is actually very easy.
 
-With a solid grasp of how computers operate under the hood, my career goals have crystallized around **Backend Engineering**. 
+1. Open codespace
+2. Type `python [FILE_NAME]`
 
-To build scalable, robust, and modern server-side applications, I am shifting my focus to **Python**. Transitioning to a high-level language allows me to bypass verbose boilerplate code and complex memory management. This strategic pivot will enable me to:
-* **Increase Velocity:** Write, test, and deploy code much quicker.
-* **Enhance Efficiency:** Leverage Python's rich ecosystem to write highly effective, clean, and maintainable backend systems.
+That's really it. No need to compile the code, python does it by itself.
 
----
-
-## Future Horizon: AI & Machine Learning
-
-Beyond backend development, my ultimate objective is to pivot into **Artificial Intelligence and Machine Learning (AI/ML)**. Once I have established a mature, advanced command of Python and backend architecture, I plan to leverage this skillset to dive into data science, neural networks, and machine learning models, utilizing university as a launchpad for these complex domains.
-
----
+I'm using `PyCharm` to write python. It helps me handle errors, bugs and shows warnings. PyCharm has a clean UI and it is easy to use. It's best for beginners and excessive testing.
