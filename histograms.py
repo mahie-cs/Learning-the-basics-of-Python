@@ -1,12 +1,11 @@
 # Playing with a bunch of graphs.
 # Today I learned about Histograms.
-
+import numpy as np
 from matplotlib import pyplot as plt
 
-x = [8, 14, 20, 15, 25]
+x = np.random.uniform(40.0, 100.0, 50)
 
 plt.hist(x)
-plt.title("Test")
 
 plt.savefig('my_hist.png')
 print("Histogram saved as my_hist.png")
