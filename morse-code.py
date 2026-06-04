@@ -10,6 +10,7 @@ morse_code_dict = {
     "+": ".-.-.", "-": "-....-", "_": "..--.-", '"': ".-..-.", "(": "-.--.", ")": "-.--.-", "@": ".--.-.", "$": "...-..-"
     # I later added the symbols. I learned that @ is the newest morse code symbol added in 2004.
 }
+
 print("TRANSLATE to MORSE CODE\n------------------------------------------\n[1] Translation available for only English\n[2] All invalid characters will be skipped\n")
 userInput = input("Write here: ").upper()
 result = ''
