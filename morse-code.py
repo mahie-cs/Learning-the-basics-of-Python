@@ -17,7 +17,7 @@ result = ''
 
 for char in userInput:
     if char not in morse_code_dict:
-        print(f'"{char}" was skipped. Invalid/no Morse code')
+        print(f'"{char}" was skipped. Invalid/no Morse code available.')
         continue
     result += morse_code_dict[char] + ' '
 print(result)
