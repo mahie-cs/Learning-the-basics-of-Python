@@ -5,6 +5,7 @@
 # They make it look so easy in the YouTube videos, but in reality, it was a rollercoaster of emotions and technical challenges.
 # I will stop yapping. Enjoy.
 
+
 import time
 
 def play_madlibs():
